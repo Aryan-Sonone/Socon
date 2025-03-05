@@ -31,7 +31,7 @@ export function Navbar() {
       <div className="container flex h-14 items-center">
         <div className="mr-4 flex">
           <Link href="/" className="flex items-center space-x-2">
-            <span className="hidden font-bold sm:inline-block">Social Cot</span>
+            <span className="hidden font-bold sm:inline-block">Socon</span>
           </Link>
         </div>
         <div className="flex flex-1 items-center justify-end space-x-2 sm:justify-between sm:space-x-4">
